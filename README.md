@@ -61,19 +61,19 @@
 
 #### Документация API
 
-<img src="media/images/docs.png" alt="Документация API" width=50% />
+<img src="media/images/docs.png" alt="Документация API" />
 
 #### Метод `predict_item`
 
-<img src="media/images/predict_item.png" alt="Метод predict_item" width=50% />
+<img src="media/images/predict_item.png" alt="Метод predict_item" />
 
 #### Метод `predict_items`
 
-<img src="media/images/predict_items.png" alt="Метод predict_items" width=50% />
+<img src="media/images/predict_items.png" alt="Метод predict_items" />
 
 #### Результат
 
-<img src="media/images/result_csv_file.png" alt="Результат" width=50% />
+<img src="media/images/result_csv_file.png" alt="Результат" />
 
 ## Использование
 
