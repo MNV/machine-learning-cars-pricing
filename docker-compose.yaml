@@ -1,0 +1,13 @@
+services:
+  # сервис приложения FastAPI
+  app:
+    build: .
+    container_name: app
+    command: uvicorn main:app --reload --host 0.0.0.0 --port=8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/src
+      - ./media:/media
+    env_file:
+      - .env
